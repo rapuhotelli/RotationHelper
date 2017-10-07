@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: RotationHelper
+## Version: 1.0.0
+## Author: rapuhotelli
+## Notes: Display noobtips for what spells to cast next
+## DefaultState: Enabled
+
+
+Mage.lua
+RotationHelper.lua
